@@ -95,7 +95,7 @@ a:active {
  * 
  * ------------------------------------------------------------------- */
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
-  font-family: "domine-regular", serif;
+  font-family: "roboto-regular";
   color: #000000;
   font-style: normal;
   font-weight: normal;
@@ -1244,8 +1244,8 @@ input::-moz-focus-inner {
 }
 
 .home-logo img {
-  width: 100px;
-  height: 25px;
+  width: 120px;
+  height: 125px;
 }
 
 
@@ -1436,7 +1436,7 @@ input::-moz-focus-inner {
  * ------------------------------------------------------------------- */
 .home-social {
   list-style: none;
-  font-family: "metropolis-regular", sans-serif;
+  font-family: "roboto-regular", sans-serif;
   margin: 0;
   position: absolute;
   top: 50%;
@@ -1483,7 +1483,7 @@ input::-moz-focus-inner {
 
 .home-social span {
   font-size: 1.2rem;
-  color: #ec008c;
+  color: white;
   right: 6rem;
   opacity: 0;
   visibility: hidden;
