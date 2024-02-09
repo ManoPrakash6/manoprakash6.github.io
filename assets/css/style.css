@@ -196,9 +196,9 @@ h6 {
   border-radius: 50px;
   border: 2px solid #f82249;
   transition: all ease-in-out 0.3s;
-  font-weight: 500;
+  font-weight: 700;
   line-height: 1;
-  font-size: 13px;
+  font-size: 18px;
   white-space: nowrap;
 }
 
@@ -251,8 +251,8 @@ h6 {
   justify-content: space-between;
   color: rgba(202, 206, 221, 0.8);
   font-family: "Roboto", sans-serif;
-  font-weight: 600;
-  font-size: 14px;
+  font-weight: 700;
+  font-size: 19px;
   white-space: nowrap;
   transition: 0.3s;
   position: relative;
@@ -423,7 +423,7 @@ h6 {
 .navbar-mobile a,
 .navbar-mobile a:focus {
   padding: 10px 20px;
-  font-size: 15px;
+  font-size: 18px;
   color: #060c22;
 }
 
@@ -617,7 +617,7 @@ h6 {
 
 #hero .about-btn {
   font-family: "Roboto", sans-serif;
-  font-weight: 400;
+  font-weight: 600;
   font-size: 22px;
   letter-spacing: 1px;
   display: inline-block;
