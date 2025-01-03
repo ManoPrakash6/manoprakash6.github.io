@@ -1,0 +1,175 @@
+{
+  "formId": "1zOgMQYjq5HHefywrqkOqpDlKOCP8nAPzyAu9EgB3ng0",
+  "info": {
+    "title": "UNOFFICIAL Let's Choose - M.Sc Electives Jul-Nov 2023",
+    "description": "Dear friends,\n      This form is to understand ourselves on our elective preferences. By this, we can give a better preference for the electives.\nNOTE: Kindly, input your honest response. \nSubmission Deadline: 18.03.2023 11:59 PM",
+    "documentTitle": "Let's Choose - M.Sc Electives Jul-Nov 2023"
+  },
+  "revisionId": "0000013c",
+  "responderUri": "https://docs.google.com/forms/d/e/1FAIpQLSewY448bKLaxSpnej9-7Mo6eSEgujV_cJ3hX3xh_A_FKQ8lQw/viewform",
+  "items": [
+    {
+      "itemId": "778f976f",
+      "title": "Name",
+      "questionItem": {
+        "question": {
+          "questionId": "028a2562",
+          "required": true,
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "49ee1e6d",
+      "title": "Your smail:",
+      "questionItem": {
+        "question": {
+          "questionId": "5f8d13ed",
+          "required": true,
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "1852871d",
+      "questionGroupItem": {
+        "questions": [
+          {
+            "questionId": "234aa719",
+            "required": true,
+            "rowQuestion": {
+              "title": "First"
+            }
+          },
+          {
+            "questionId": "49365b35",
+            "required": true,
+            "rowQuestion": {
+              "title": "Second"
+            }
+          },
+          {
+            "questionId": "3c8ba5b9",
+            "required": true,
+            "rowQuestion": {
+              "title": "Third"
+            }
+          },
+          {
+            "questionId": "417dd1a3",
+            "required": true,
+            "rowQuestion": {
+              "title": "Fourth"
+            }
+          },
+          {
+            "questionId": "34b75936",
+            "required": true,
+            "rowQuestion": {
+              "title": "Fifth"
+            }
+          },
+          {
+            "questionId": "132500cc",
+            "required": true,
+            "rowQuestion": {
+              "title": "Sixth"
+            }
+          }
+        ],
+        "grid": {
+          "columns": {
+            "type": "RADIO",
+            "options": [
+              {
+                "value": "MA5316 Combinatorial Topology"
+              },
+              {
+                "value": "MA6050 Dynamical Systems"
+              },
+              {
+                "value": "MA5018 Stochastic Calculus for Finance"
+              },
+              {
+                "value": "MA6180 Introduction to Algebraic Geometry"
+              },
+              {
+                "value": "MA5017 Representation Theory"
+              },
+              {
+                "value": "MA5430 Algebra II"
+              },
+              {
+                "value": "MA6470 Commutative Algebra"
+              },
+              {
+                "value": "MA6480 Galois Theory"
+              },
+              {
+                "value": "MA6230 Graph Theory"
+              },
+              {
+                "value": "MA6210 Combinatorial Optimization"
+              },
+              {
+                "value": "MA7654 Algebraic Combinatorics"
+              },
+              {
+                "value": "MA6004 Mathematics of Fractals"
+              },
+              {
+                "value": "MA5720 Numerical Analysis of PDEs"
+              },
+              {
+                "value": "MA5460 Transform Techniques"
+              },
+              {
+                "value": "MA6080 Fourier Analysis"
+              },
+              {
+                "value": "MA5440 Combinatorics and Number Theory"
+              },
+              {
+                "value": "MA6270 Numerical solutions of PDEs"
+              },
+              {
+                "value": "MA5490 Fluid Dynamics"
+              },
+              {
+                "value": "MA6200 Theory of Computation"
+              },
+              {
+                "value": "MA6120 Advanced Complex Analysis"
+              },
+              {
+                "value": "MA5315 Differential Topology"
+              },
+              {
+                "value": "MA5510 Algebra, Analysis and Probability in Combinatorics"
+              },
+              {
+                "value": "MA6005 Applied Linear Algebra"
+              },
+              {
+                "value": "MA7015 Applied Cryptology"
+              }
+            ]
+          }
+        }
+      },
+      "title": "Choose your Top six preference out of the 24 electives. We ask for six preference, only to understand what else were there in student's mindset, apart from the first four preferences.\nNOTE: \n1. You have to fill all six choices.\n2. Also, you cannot give two courses, the same preference.\n\nIf 1 and 2 are not satisfied, then this form cannot be submitted."
+    },
+    {
+      "itemId": "10448781",
+      "title": "If you are interested in an Math elective which is not mentioned above, Kindly mention it here (Full Course Name - Preferably with the course code).\n\nType NA if you don't have any such elective.",
+      "questionItem": {
+        "question": {
+          "questionId": "17347ad8",
+          "required": true,
+          "textQuestion": {}
+        }
+      }
+    }
+  ],
+  "linkedSheetId": "1g_cBs0i4Qxwsq2BtepIy-0zYul9lum0kaL4HvkdRq-Q"
+}

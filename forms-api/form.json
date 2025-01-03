@@ -1,0 +1,192 @@
+{
+  "formId": "1x_IbhOn10a4-NLboo_rp10Voa-CaFMekOXO97bAdehc",
+  "info": {
+    "title": "Forays '24 Registration form - School level",
+    "description": "Forays at IIT Madras: Elevate your math game with thrilling challenges and camaraderie. Join us for an unforgettable exploration of numbers and problem-solving. Uncover the beauty of mathematical mysteries as you forge lasting connections with fellow enthusiasts. Register now and become part of a community where the thrill of problem-solving resonates beyond numbers!\n\nDate: 25th February 2024\nVenue :  Class Room Complex (CRC), IIT Madras\n\nFor More Details,\nhttps://foraysiitm.org/\nFor Queries,\nregistration@foraysiitm.org \n",
+    "documentTitle": "Forays '24 Registration form - School level"
+  },
+  "revisionId": "000000a1",
+  "responderUri": "https://docs.google.com/forms/d/e/1FAIpQLSdtekjTUppxr64UTlv05bXEbSJGNEMuMalC7sCYXczw-_gyuw/viewform",
+  "items": [
+    {
+      "itemId": "075f88f4",
+      "title": "Name",
+      "questionItem": {
+        "question": {
+          "questionId": "3c3cf371",
+          "required": true,
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "1fe537b0",
+      "title": "Contact Number",
+      "questionItem": {
+        "question": {
+          "questionId": "04e705cd",
+          "required": true,
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "1b8fdb97",
+      "title": "School Name",
+      "questionItem": {
+        "question": {
+          "questionId": "06620f81",
+          "required": true,
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "5a3081bd",
+      "title": "Class",
+      "questionItem": {
+        "question": {
+          "questionId": "0f008f17",
+          "required": true,
+          "choiceQuestion": {
+            "type": "RADIO",
+            "options": [
+              {
+                "value": "6-8"
+              },
+              {
+                "value": "9-10"
+              },
+              {
+                "value": "11-12"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "itemId": "61f51076",
+      "title": "In the following events, please select an event in which you would like to participate",
+      "questionItem": {
+        "question": {
+          "questionId": "3d194504",
+          "required": true,
+          "choiceQuestion": {
+            "type": "RADIO",
+            "options": [
+              {
+                "value": "Cows & Bulls"
+              },
+              {
+                "value": "Crossword"
+              },
+              {
+                "value": "None of the above"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "itemId": "4afe7b80",
+      "title": "In the following events, please select an event in which you would like to participate",
+      "questionItem": {
+        "question": {
+          "questionId": "483aa3f7",
+          "required": true,
+          "choiceQuestion": {
+            "type": "RADIO",
+            "options": [
+              {
+                "value": "Quiz"
+              },
+              {
+                "value": "Math Sketch"
+              },
+              {
+                "value": "Sudden Death"
+              },
+              {
+                "value": "None of the above"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "itemId": "212101f1",
+      "title": "In the following events, please select an event in which you would like to participate",
+      "questionItem": {
+        "question": {
+          "questionId": "3571a21a",
+          "required": true,
+          "choiceQuestion": {
+            "type": "RADIO",
+            "options": [
+              {
+                "value": "Mind dash"
+              },
+              {
+                "value": "Math Olympiad"
+              },
+              {
+                "value": "None of the above"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "itemId": "19a2c1fd",
+      "imageItem": {
+        "image": {
+          "contentUri": "https://lh4.googleusercontent.com/Gyei9z3K3DQEaOKlqsGTDK66HfEKVg5TVp_0pK9TJtwUdjD-xWnm7hlEEEurI66C0_2lVODuv1OZz-80m0XKosnLmGYVNmevJ-zgtck88PGSGSeO3me_0IgadFwmNK9R5g",
+          "properties": {
+            "alignment": "CENTER",
+            "width": 258
+          }
+        }
+      },
+      "title": "QR code for Payment \nRegistration Fee for school students : 200/-\nUPI Id : 9339880240@okbizaxis\nName: Mr. MD KARIMULLA H\n\nDon't Pay to any phone number"
+    },
+    {
+      "itemId": "7051ebcd",
+      "textItem": {},
+      "title": "Bank details for those who are unable to pay using QR code  Untitled Title",
+      "description": "AC No: 38112955169\nIFSC : SBIN0000132\nBranch : Midnapore \nBeneficiary name: Adrija Dalal\nUPI ID: tista037@oksbi"
+    },
+    {
+      "itemId": "25265d74",
+      "title": "Kindly enter the Transaction ID of the payment:",
+      "questionItem": {
+        "question": {
+          "questionId": "15d6006d",
+          "required": true,
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "itemId": "06400759",
+      "title": "Kindly upload a screenshot of proof of the payment:",
+      "questionItem": {
+        "question": {
+          "questionId": "3fc4b857",
+          "required": true,
+          "fileUploadQuestion": {
+            "folderId": "1bCnN7VT98PM_QvQZRp7TurOAZDdYbE2fQg_3O5p5nR9-ztAdBouYrqCCI2y1JP0j_BlH3KKn",
+            "types": [
+              "ANY"
+            ],
+            "maxFiles": 1,
+            "maxFileSize": "10485760"
+          }
+        }
+      }
+    }
+  ]
+}
