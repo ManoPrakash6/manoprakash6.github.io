@@ -1,7 +1,8 @@
 ---
-title: "About Me"
+title: "Teaching Experience"
 sidebar: false
 toc: true
+output-file: index.html
 ---
 
 Page under construction 😊
