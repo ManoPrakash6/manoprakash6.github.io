@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "teaching/index.html",
-    "href": "teaching/index.html",
-    "title": "Teaching Experience",
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "CV",
     "section": "",
     "text": "Page under construction 😊"
-  },
-  {
-    "objectID": "research/index.html",
-    "href": "research/index.html",
-    "title": "Research",
-    "section": "",
-    "text": "Coming Soon 😊"
   },
   {
     "objectID": "index.html",
@@ -21,16 +14,23 @@
     "text": "I am a first-year PhD student in the Department of Computer Science at North Carolina State University. I am fortunate to work with Dr. Sharma Thankachan.\n\n\n\nMy research interests lie broadly in the field of Algorithms, with a particular focus on String and Graph algorithms. These areas fascinate me due to their fundamental importance in computer science and their wide-ranging applications in various disciplines.\n\n\n\nYou can reach out to me via mpartha @ ncsu . edu . Please feel free to reach out!"
   },
   {
-    "objectID": "about/index.html",
-    "href": "about/index.html",
-    "title": "About Me",
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Research",
+    "section": "",
+    "text": "Coming Soon 😊"
+  },
+  {
+    "objectID": "talks/index.html",
+    "href": "talks/index.html",
+    "title": "Talks",
     "section": "",
     "text": "Page under construction 😊"
   },
   {
-    "objectID": "cv/index.html",
-    "href": "cv/index.html",
-    "title": "CV",
+    "objectID": "teaching/index.html",
+    "href": "teaching/index.html",
+    "title": "Teaching Experience",
     "section": "",
     "text": "Page under construction 😊"
   },
@@ -42,9 +42,9 @@
     "text": "Page under construction 😊"
   },
   {
-    "objectID": "talks/index.html",
-    "href": "talks/index.html",
-    "title": "Talks",
+    "objectID": "about/index.html",
+    "href": "about/index.html",
+    "title": "About Me",
     "section": "",
     "text": "Page under construction 😊"
   }
