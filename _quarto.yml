@@ -27,7 +27,9 @@ website:
       - icon: github
         href: https://github.com/manoprakash6
         target: _blank
-  google-analytics: "${GOOGLE_ANALYTICS_ID}"
+  google-analytics: 
+    tracking-id: "{{< env GOOGLE_ANALYTICS_ID >}}"
+    storage: none
 format:
   html:
     theme:
