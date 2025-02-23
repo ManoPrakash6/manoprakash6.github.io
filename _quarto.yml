@@ -25,6 +25,7 @@ website:
         href: https://www.linkedin.com/in/manoprakash6/
       - icon: github
         href: https://github.com/manoprakash6
+  google-analytics: "${GOOGLE_ANALYTICS_ID}"
 format:
   html:
     theme:
