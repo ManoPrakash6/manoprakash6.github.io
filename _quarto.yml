@@ -23,8 +23,10 @@ website:
     right: 
       - icon: linkedin
         href: https://www.linkedin.com/in/manoprakash6/
+        target: _blank
       - icon: github
         href: https://github.com/manoprakash6
+        target: _blank
   google-analytics: "${GOOGLE_ANALYTICS_ID}"
 format:
   html:
