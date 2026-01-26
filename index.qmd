@@ -7,9 +7,10 @@ css: css/index.css
 
 :::{.column-body-outset}
 
-::: {layout="[[30,70]]"}
+::: {layout="[[40, 60]]"}
 
-<div>
+<div class="text-center">
+  ![](images/Mano_Photo.jpeg){.headshot .rounded}
 </div>
 
 <div>
@@ -29,3 +30,6 @@ css: css/index.css
     You can reach out to me via mpartha @ ncsu . edu . Please feel free to reach out! 
   </p>
 </div>
+
+:::
+:::
