@@ -8,18 +8,18 @@ website:
     background: primary
     search: true
     left:
-      - href: about/about.qmd
-        text: About Me
-      - href: research/research.qmd
-        text: Research
-      - href: teaching/teaching.qmd
-        text: Teaching
-      # - href: talks/talks.qmd
-      #   text: Talks
-      - href: cv/cv.qmd
-        text: CV
-      - href: misc/misc.qmd
-        text: Misc
+      - text: About Me
+        href: about/about.qmd
+      - text: Research          
+        href: research/research.qmd
+      - text: Teaching
+        href: teaching/teaching.qmd
+      # - text: Talks
+      #   href: talks/talks.qmd
+      - text: CV
+        href: cv/cv.qmd
+      - text: Misc
+        href: misc/misc.qmd  
     right: 
       - icon: linkedin
         href: https://www.linkedin.com/in/manoprakash6/
@@ -41,3 +41,4 @@ format:
     smooth-scroll: true
     anchor-sections: true
     page-layout: full
+    link-external-newwindow: true
