@@ -1,8 +1,47 @@
 ---
 title: "Research"
 sidebar: false
-toc: true
-output-file: index.html
+toc: false
+css: ../css/research.css
+page-layout: full
+listing:
+  - id: pub-conferences-listing
+    contents: publications-conference.yml
+    sort: [year desc]
+    page-size: 10
+    type: table
+    categories: false
+    template: research.ejs
+  - id: pub-arxiv-listing
+    contents: publications-arxiv.yml
+    sort: [year desc]
+    page-size: 10
+    type: table
+    categories: false
+    template: research.ejs
 ---
 
-Coming Soon 😊
+
+
+[DBLP](https://dblp.org/pid/408/9301.html) ⸱ [Google Scholar](https://scholar.google.com/citations?user=XoElxocAAAAJ&hl=en) ⸱ [ORCID](https://orcid.org/0009-0009-7137-5305)
+
+<!-- :::{.column-body} -->
+
+<p>&nbsp;</p>
+
+::: {.panel-tabset}
+## Conference Publications
+
+::: {#pub-conferences-listing}
+:::
+
+## arXiv
+
+::: {#pub-arxiv-listing}
+:::
+
+:::
+
+
+<!-- ::: -->
+<!-- end column -->
