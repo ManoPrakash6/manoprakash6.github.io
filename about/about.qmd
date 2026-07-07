@@ -1,8 +1,78 @@
 ---
 title: "About Me"
 sidebar: false
-toc: true
-output-file: index.html
+toc: false
+css: ../css/about.css
 ---
 
-Page under construction 😊
+:::{.column-body-outset}
+
+
+::: {layout="[[56,4,40]]"}
+
+<div>
+
+# Background
+
+Hi <span>&#128075;</span> ! I am Mano Prakash Parthasarathi, a Ph.D. student in the department of Computer Science at North Carolina State University. My research interests lie broadly in Theoretical Computer Science, with primary interests in String and Graph algorithms.
+
+<br>
+
+I completed my Bachelor of Engineering in Computer Science and Engineering at the Government College of Technology, Coimbatore, from 2015 to 2019. Following my undergraduate studies, I entered the industry as an Associate Software Engineer <span class="bi bi-laptop" style="color: #476fdc;"></span> at OptumInsight India Private Limited in Chennai, where I worked from June 2019 until November 2021.
+
+<br>
+
+Driven by my interest in Mathematics, I then wrote the Joint Admission for Masters (JAM) examination in 2022 and joined the M.Sc. Mathematics program at IIT Madras. It was during this time that I got exposed to different fields of Theoretical Computer Science (special mention to the Theory CS group at IIT Madras), which motivated me to pursue a Ph.D. in this field.
+
+<br>
+
+One of the things I enjoy the most about research is that no two days are the same ; there is always something new to learn, especially when collaborating with and learning from my peers. 
+
+<br>
+
+I love hiking <span class="bi bi-person-walking" style="color: #229152;"></span>, teaching, and mentoring students <span class="bi bi-easel-fill" style="color: #101216;"></span>. To unwind, my go-to activities are listening to music <span class="bi bi-music-player-fill" style="color: #101216;"></span>, solving puzzles <span class="bi bi-puzzle-fill" style="color: #212122;"></span>, and catching up with my friends  <span class="bi bi-people-fill" style="color: #101216;"></span>. Recently I have been trying to develop a habit of reading books  <span class="bi bi-book-half" style="color: #242528;"></span>  (Hope this habit sticks <span style="color: black">&#129310;</span>).
+
+<p>&nbsp;</p>
+
+
+</div>
+
+
+<div>
+</div>
+
+<div>
+
+![](/images/Mano_Photo_About_Me.jpeg){width="70%" height="70%"}
+
+<p>&nbsp;</p>
+
+##### 2024 — Present
+
+Ph.D. Student (Computer Science), <br> 
+North Carolina State University, <br>
+Raleigh, NC, USA.
+
+##### 2022 — 2024
+
+M.Sc. Mathematics, <br>
+Indian Institute of Technology Madras, <br>
+Chennai, India.
+
+##### 2019 — 2021
+
+Associate Software Engineer, <br>
+OptumInsight India Private Limited, <br>
+Chennai, India.
+
+##### 2015 — 2019
+
+B.E. Computer Science and Engineering, <br>
+Government College of Technology, Coimbatore, <br>
+India.
+
+</div>
+
+:::
+:::
+
