@@ -14,5 +14,8 @@ listing:
     template: teaching.ejs
 ---
 
+
+<p>&nbsp;</p>
+
 ::: {#teaching-assistant-listing}
 :::
