@@ -1,8 +1,21 @@
 ---
-title: "Teaching Experience"
+title: "Teaching Assistant Experience"
 sidebar: false
-toc: true
-output-file: index.html
+toc: false
+css: ../css/teaching.css
+page-layout: full
+listing:
+  - id: teaching-assistant-listing
+    contents: teaching-assistant.yml
+    sort: [year desc]
+    page-size: 10
+    type: table
+    categories: false
+    template: teaching.ejs
 ---
 
-Page under construction 😊
+
+<p>&nbsp;</p>
+
+::: {#teaching-assistant-listing}
+:::
