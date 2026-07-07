@@ -10,7 +10,7 @@ css: css/index.css
 ::: {layout="[[40, 60]]"}
 
 <div class="text-center">
-  ![](images/Mano_Photo.jpeg){.headshot .rounded}
+  ![](images/Mano_Photo.jpg){.headshot .rounded}
 </div>
 
 <div>
@@ -27,7 +27,7 @@ css: css/index.css
   <br>
 
   <p>
-    You can reach out to me via mpartha @ ncsu . edu . Please feel free to reach out! 
+    You can reach out to me via <span style="color: #007acc;">mpartha [at] ncsu [dot] edu </span>. Please feel free to reach out! 
   </p>
 </div>
 
