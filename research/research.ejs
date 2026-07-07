@@ -1,0 +1,37 @@
+```{=html}
+<table class="quarto-listing-table table">
+  <tbody class="list">
+    <% let counter=1; %>
+      <% for (const item of items) { %>
+        <tr data-index="0" data-categories="null" <%="metadataAttrs(item)" %>
+          >
+          <td>
+            <%= counter %>
+          </td>
+          <td class="listing-url">
+            <% if ( item.url ) { %>
+              <span><a href="<%= item.url %>"><span class="bi bi-link"></span></a></span>
+              <% } %>
+          </td>
+          <td class="listing-title" style="min-width: 450px">
+            <span data-bs-toggle="tooltip" data-bs-placement="top" title="<%= item.description %>"><a
+                href="<%= item.url %>" style="color: #0056B3">
+                <%= item.title %>
+              </a></span>
+          </td>
+          <td class="listing-authors" style="max-width: 200px; color: #212529">
+            <%= item.authors %>
+          </td>
+          <td class="listing-venue" style="color: #0056B3">
+            <b><%= item.venue %></b>
+          </td>
+          <td class="listing-year" style="color: #253945">
+            <b><%= item.year %></b>
+          </td>
+        </tr>
+        <% counter++; %>
+          <% } %>
+  </tbody>
+</table>
+
+```

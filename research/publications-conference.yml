@@ -1,0 +1,17 @@
+- title: 'Learning with Structure: Computing Consistent Subsets on Structurally-Regular Graphs'
+  authors: Aritra Banik, Mano Prakash Parthasarathi, Venkatesh Raman, Diya Roy and Abhishek Sahu
+  venue: AAAI
+  year: 2026
+  url: https://doi.org/10.1609/aaai.v40i17.38427
+
+- title: Relative Compressed Reverse Suffix Array
+  authors: Muhammed Oguzhan Külekci, Mano Prakash Parthasarathi, Rahul Shah, Sharma V. Thankachan
+  venue: STACS
+  year: 2026
+  url: https://doi.org/10.4230/LIPIcs.STACS.2026.62
+
+- title: Repetition Aware Text Indexing for Matching Patterns with Wildcards
+  authors: Daniel Gibney, Jackson Huffstutler, Mano Prakash Parthasarathi and Sharma V. Thankachan
+  venue: ICALP
+  year: 2025
+  url: https://doi.org/10.4230/LIPIcs.ICALP.2025.88
