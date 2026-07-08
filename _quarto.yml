@@ -18,8 +18,8 @@ website:
       #   href: talks/talks.qmd
       - text: CV
         href: cv/cv.qmd
-      - text: Misc
-        href: misc/misc.qmd  
+      # - text: Misc
+      #   href: misc/misc.qmd  
     right: 
       - icon: linkedin
         href: https://www.linkedin.com/in/manoprakash6/
