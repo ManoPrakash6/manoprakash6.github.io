@@ -6,6 +6,7 @@ css: css/index.css
 include-after-body: footer.html
 ---
 
+
 :::{.column-body-outset}
 
 ::: {layout="[[40, 60]]"}
