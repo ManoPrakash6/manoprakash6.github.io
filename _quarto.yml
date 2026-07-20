@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Mano Prakash Parthasarathi"
+  site-url: https://manoprakash6.github.io
   navbar:
     background: primary
     search: true
@@ -41,4 +42,5 @@ format:
     smooth-scroll: true
     anchor-sections: true
     page-layout: full
+    include-after-body: footer.html
     link-external-newwindow: true

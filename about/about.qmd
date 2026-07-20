@@ -1,9 +1,16 @@
 ---
 title: "About Me"
+title-block-banner: false
 sidebar: false
 toc: false
 css: ../css/about.css
 ---
+
+<style>
+#title-block-header {
+  display: none;
+}
+</style>
 
 :::{.column-body-outset}
 
@@ -11,6 +18,8 @@ css: ../css/about.css
 ::: {layout="[[56,4,40]]"}
 
 <div>
+
+# About Me
 
 # Background
 

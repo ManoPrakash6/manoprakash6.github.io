@@ -3,6 +3,7 @@ title: "Mano Prakash Parthasarathi"
 about:
   template: jolla
 css: css/index.css
+include-after-body: footer.html
 ---
 
 :::{.column-body-outset}
