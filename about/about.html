@@ -42,7 +42,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-82e9a8a55905c08728365d3983400785.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-1fba3c822f40c259631dc63636e6a0eb.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -149,7 +149,7 @@ gtag('config', 'G-44ZBQ3E93N', { 'anonymize_ip': true});
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content page-columns page-full column-page" id="quarto-document-content">
+<main class="content page-columns page-full column-body" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -158,7 +158,7 @@ gtag('config', 'G-44ZBQ3E93N', { 'anonymize_ip': true});
 
 
 
-<div class="quarto-title-meta column-page">
+<div class="quarto-title-meta column-body">
 
     
   
@@ -170,10 +170,19 @@ gtag('config', 'G-44ZBQ3E93N', { 'anonymize_ip': true});
 </header>
 
 
+<style>
+#title-block-header {
+  display: none;
+}
+</style>
 <div class="column-body-outset">
 <div class="quarto-layout-panel" data-layout="[[56,4,40]]">
 <div class="quarto-layout-row">
-<section id="background" class="level1 quarto-layout-cell" style="flex-basis: 56.0%;justify-content: flex-start;">
+<div class="quarto-layout-cell" style="flex-basis: 56.0%;justify-content: flex-start;">
+<section id="about-me" class="level1">
+<h1>About Me</h1>
+</section>
+<section id="background" class="level1">
 <h1>Background</h1>
 <p>Hi <span>👋</span> ! I am Mano Prakash Parthasarathi, a Ph.D.&nbsp;student in the department of Computer Science at North Carolina State University. My research interests lie broadly in Theoretical Computer Science, with primary interests in String and Graph algorithms.</p>
 <p><br></p>
@@ -188,6 +197,7 @@ gtag('config', 'G-44ZBQ3E93N', { 'anonymize_ip': true});
 &nbsp;
 </p>
 </section>
+</div>
 <div class="quarto-layout-cell" style="flex-basis: 4.0%;justify-content: flex-start;">
 
 </div>
@@ -220,6 +230,12 @@ gtag('config', 'G-44ZBQ3E93N', { 'anonymize_ip': true});
 
 
 </main> <!-- /main -->
+<div class="column-screen-inset">
+    <hr class="about-sep">
+    <div class="quarto-about-jolla column-body" style="margin-top:52px;">
+        <p> <script>document.write(new Date().getFullYear());</script> • Mano Prakash Parthasarathi • <a href="https://github.com/neeldhara/quartosite">Credits</a></p>
+    </div>
+</div>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
@@ -293,7 +309,7 @@ gtag('config', 'G-44ZBQ3E93N', { 'anonymize_ip': true});
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/ManoPrakash6\.github\.io\/manoprakash6\.github\.io\/");
+        var filterRegex = new RegExp("https:\/\/manoprakash6\.github\.io");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
