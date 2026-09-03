@@ -19,7 +19,7 @@ include-after-body: footer.html
   <p>&nbsp;</p>
 
   <p>
-    I am a second-year PhD student in the Department of Computer Science at North Carolina State University. I am fortunate to work with <a href="https://www.csc.ncsu.edu/people/svalliy" target="_blank">Dr. Sharma Thankachan</a>.
+    I am a second-year PhD student in the Department of Computer Science at North Carolina State University. I am fortunate to work with <a href="https://www.csc.ncsu.edu/people/svalliy" target="_blank">Dr. Sharma Thankachan</a>, and I am also a member of the <a href="https://ncsu-theory-lab.github.io/" target="_blank">NCSU Theory group</a>.
   </p>
 
   <br>
