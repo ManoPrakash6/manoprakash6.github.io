@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "cv/index.html",
-    "href": "cv/index.html",
-    "title": "CV",
+    "objectID": "talks/index.html",
+    "href": "talks/index.html",
+    "title": "Talks",
     "section": "",
-    "text": "Download PDF\n\n\n\nYour browser can’t display the PDF inline. Download the PDF."
+    "text": "Page under construction 😊"
   },
   {
     "objectID": "teaching/teaching.html",
@@ -14,25 +14,18 @@
     "text": "CSC 505\nDesign and Analysis of Algorithms\n2026\n\n\n\n\n\nCSC216 and CSC 217\nSoftware Developlment Fundamentals (and Software Development Fundamentals Lab)\n2024\n\n\n\n\n\nCS2800\nDesign and Analysis of Algorithms\n2024\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "talks/index.html",
-    "href": "talks/index.html",
-    "title": "Talks",
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "CV",
     "section": "",
-    "text": "Page under construction 😊"
+    "text": "Download PDF\n\n\n\nYour browser can’t display the PDF inline. Download the PDF."
   },
   {
-    "objectID": "misc/index.html",
-    "href": "misc/index.html",
-    "title": "Miscellaneous",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Mano Prakash Parthasarathi",
     "section": "",
-    "text": "Page under construction 😊"
-  },
-  {
-    "objectID": "research/research.html",
-    "href": "research/research.html",
-    "title": "Research",
-    "section": "",
-    "text": "DBLP ⸱ Google Scholar ⸱ ORCID\n\n\n \n\n\nConference PublicationsarXiv\n\n\n\n\n\n\n1\n\n Learning with Structure: Computing Consistent Subsets on Structurally-Regular Graphs \nAritra Banik, Mano Prakash Parthasarathi, Venkatesh Raman, Diya Roy and Abhishek Sahu\nAAAI\n2026\n\n\n2\n\n Relative Compressed Reverse Suffix Array \nMuhammed Oguzhan Külekci, Mano Prakash Parthasarathi, Rahul Shah, Sharma V. Thankachan\nSTACS\n2026\n\n\n3\n\n Repetition Aware Text Indexing for Matching Patterns with Wildcards \nDaniel Gibney, Jackson Huffstutler, Mano Prakash Parthasarathi and Sharma V. Thankachan\nICALP\n2025\n\n\n\nNo matching items\n\n\n\n\n\n\n\n1\n\n Learning with Structure: Computing Consistent Subsets on Structurally-Regular Graphs \nAritra Banik, Mano Prakash Parthasarathi, Venkatesh Raman, Diya Roy and Abhishek Sahu\n\n2025\n\n\n\nNo matching items"
+    "text": "I am a second-year PhD student in the Department of Computer Science at North Carolina State University. I am fortunate to work with Dr. Sharma Thankachan, and I am also a member of the NCSU Theory group.\n\n\n\nMy research interests lie broadly in the field of Algorithms, with a particular focus on String and Graph algorithms. These areas fascinate me due to their fundamental importance in computer science and their wide-ranging applications in various disciplines.\n\n\n\nYou can reach out to me via mpartha [at] ncsu [dot] edu . Please feel free to reach out!"
   },
   {
     "objectID": "about/about.html",
@@ -42,10 +35,17 @@
     "text": "About Me\n\n\nBackground\nHi 👋 ! I am Mano Prakash Parthasarathi, a Ph.D. student in the department of Computer Science at North Carolina State University. My research interests lie broadly in Theoretical Computer Science, with primary interests in String and Graph algorithms.\n\nI completed my Bachelor of Engineering in Computer Science and Engineering at the Government College of Technology, Coimbatore, from 2015 to 2019. Following my undergraduate studies, I entered the industry as an Associate Software Engineer  at OptumInsight India Private Limited in Chennai, where I worked from June 2019 until November 2021.\n\nDriven by my interest in Mathematics, I then wrote the Joint Admission for Masters (JAM) examination in 2022 and joined the M.Sc. Mathematics program at IIT Madras. It was during this time that I got exposed to different fields of Theoretical Computer Science (special mention to the Theory CS group at IIT Madras), which motivated me to pursue a Ph.D. in this field.\n\nOne of the things I enjoy the most about research is that no two days are the same ; there is always something new to learn, especially when collaborating with and learning from my peers.\n\nI love hiking , teaching, and mentoring students . To unwind, my go-to activities are listening to music , solving puzzles , and catching up with my friends . Recently I have been trying to develop a habit of reading books  (Hope this habit sticks 🤞).\n\n \n\n\n\n\n\n\n\n\n\n \n\n\n2024 — Present\nPh.D. Student (Computer Science),  North Carolina State University,  Raleigh, NC, USA.\n\n\n2022 — 2024\nM.Sc. Mathematics,  Indian Institute of Technology Madras,  Chennai, India.\n\n\n2019 — 2021\nAssociate Software Engineer,  OptumInsight India Private Limited,  Chennai, India.\n\n\n2015 — 2019\nB.E. Computer Science and Engineering,  Government College of Technology, Coimbatore,  Coimbatore, India."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Mano Prakash Parthasarathi",
+    "objectID": "research/research.html",
+    "href": "research/research.html",
+    "title": "Research",
     "section": "",
-    "text": "I am a second-year PhD student in the Department of Computer Science at North Carolina State University. I am fortunate to work with Dr. Sharma Thankachan.\n\n\n\nMy research interests lie broadly in the field of Algorithms, with a particular focus on String and Graph algorithms. These areas fascinate me due to their fundamental importance in computer science and their wide-ranging applications in various disciplines.\n\n\n\nYou can reach out to me via mpartha [at] ncsu [dot] edu . Please feel free to reach out!"
+    "text": "DBLP ⸱ Google Scholar ⸱ ORCID\n\n\n \n\n\nConference PublicationsarXiv\n\n\n\n\n\n\n1\n\n Learning with Structure: Computing Consistent Subsets on Structurally-Regular Graphs \nAritra Banik, Mano Prakash Parthasarathi, Venkatesh Raman, Diya Roy and Abhishek Sahu\nAAAI\n2026\n\n\n2\n\n Relative Compressed Reverse Suffix Array \nMuhammed Oguzhan Külekci, Mano Prakash Parthasarathi, Rahul Shah, Sharma V. Thankachan\nSTACS\n2026\n\n\n3\n\n Repetition Aware Text Indexing for Matching Patterns with Wildcards \nDaniel Gibney, Jackson Huffstutler, Mano Prakash Parthasarathi and Sharma V. Thankachan\nICALP\n2025\n\n\n\nNo matching items\n\n\n\n\n\n\n\n1\n\n Learning with Structure: Computing Consistent Subsets on Structurally-Regular Graphs \nAritra Banik, Mano Prakash Parthasarathi, Venkatesh Raman, Diya Roy and Abhishek Sahu\n\n2025\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "misc/index.html",
+    "href": "misc/index.html",
+    "title": "Miscellaneous",
+    "section": "",
+    "text": "Page under construction 😊"
   }
 ]
