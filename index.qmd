@@ -19,13 +19,13 @@ include-after-body: footer.html
   <p>&nbsp;</p>
 
   <p>
-    I am a third-year Ph.D. student in the Department of Computer Science at North Carolina State University. I am fortunate to work with <a href="https://www.csc.ncsu.edu/people/svalliy" target="_blank">Dr. Sharma Thankachan</a>, and I am also a member of the <a href="https://ncsu-theory-lab.github.io/" target="_blank">NCSU Theory group</a>.
+    I am a third-year Ph.D. student in the Department of Computer Science at North Carolina State University. I am fortunate to work with <a href="https://www.csc.ncsu.edu/people/svalliy" target="_blank">Dr. Sharma Thankachan</a> and <a href="https://chinholee.github.io/" target="_blank">Dr. Chin Ho Lee</a>, and I am also a member of the <a href="https://ncsu-theory-lab.github.io/" target="_blank">NCSU Theory group</a>.
   </p>
 
   <br>
 
   <p>
-    My research interests lie broadly in the field of Algorithms, with a particular focus on String and Graph algorithms. These areas fascinate me due to their fundamental importance in computer science and their wide-ranging applications in various disciplines.
+    My research interests lie broadly in Theoretical Computer Science, with a particular focus on String algorithms and Pseudorandomness. These areas fascinate me due to their fundamental importance in computer science and their wide-ranging applications in various disciplines.
   </p>
 
   <br>
